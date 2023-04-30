@@ -45,7 +45,7 @@ e a porta final. Ele irá verificar quais portas estão com o Status Open.
 
 _Exemplo de Resposta:_
 
-https://github.com/werdelesmarcio/PyTCPScan-main/blob/master/Images/Capturar2.PNG
+<img src="https://github.com/werdelesmarcio/PyTCPScan-main/blob/master/Images/Capturar2.PNG">
 
 Leia [as Diretivas de Contribuição](https://github.com/werdelesmarcio/PyTCPScan/blob/master/Archives/CONTRIBUTING.md) para obter mais detalhes de como contribuir para o projeto.
 
