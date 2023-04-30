@@ -50,7 +50,7 @@ _Exemplo de Resposta:_
 Leia [as Diretivas de Contribuição](https://github.com/werdelesmarcio/PyTCPScan/blob/master/Archives/CONTRIBUTING.md) para obter mais detalhes de como contribuir para o projeto.
 
 ## Autor:
-* **Werdeles Marcio de C. Soares** - _Desenvolvedor_
+* **Werdeles Marcio de C. Soares**:**(gh05tb0y)** - _Desenvolvedor_
 
 ## Licença: 
 ***Este projeto está sob Licença GPL-3.0.***
