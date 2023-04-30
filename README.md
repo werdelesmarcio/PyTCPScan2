@@ -1,6 +1,6 @@
 # PyTCPScan <img src="https://github.com/werdelesmarcio/PyTCPScan/blob/main/Images/icon.png" width=25> 
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/3629bc037bdc9dbf4b71/maintainability)](https://codeclimate.com/github/werdelesmarcio/PyTCPScan/maintainability) <img alt="AppVeyor" src="https://img.shields.io/appveyor/ci/werdelesmarcio/PyTCPScan"> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan&metric=alert_status)](https://sonarcloud.io/dashboard?id=werdelesmarcio_PyTCPScan) <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan"> <img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/PyTCPScan"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url/https/twitter.com/ScorpionInc?style=social">
+[![Maintainability](https://api.codeclimate.com/v1/badges/3629bc037bdc9dbf4b71/maintainability)](https://codeclimate.com/github/werdelesmarcio/PyTCPScan2/maintainability) <img alt="AppVeyor" src="https://img.shields.io/appveyor/ci/werdelesmarcio/PyTCPScan2"> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=alert_status)](https://sonarcloud.io/dashboard?id=werdelesmarcio_PyTCPScan2) <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan2"> <img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/PyTCPScan2"> 
 
 _Repositório para a aplicação PyTCPScan._
 
@@ -16,7 +16,7 @@ das portas inicial e final que comporão o range.
 **OBS.: Se sua meta é de escanear apenas uma porta, pode colocar o mesmo valor para 
 os dois ultimos parâmetros.**
 
-Está em sua versão 1.2 _(beta)_ e ainda está em fase de desenvolvimento.
+Está em sua versão 2.0 _(beta)_ e ainda está em fase de desenvolvimento.
 
 ## Começando
 Estas são as instruções para que você tenha uma cópia do **PyTCPScan** em sua maquina para fins 
@@ -45,16 +45,16 @@ e a porta final. Ele irá verificar quais portas estão com o Status Open.
 
 _Exemplo de Resposta:_
 
-<img src="https://github.com/werdelesmarcio/PyTCPScan-main/blob/master/Images/Capturar2.PNG">
+<img src="https://github.com/werdelesmarcio/PyTCPScan2/blob/master/Images/Capturar2.PNG">
 
-Leia [as Diretivas de Contribuição](https://github.com/werdelesmarcio/PyTCPScan/blob/master/Archives/CONTRIBUTING.md) para obter mais detalhes de como contribuir para o projeto.
+Leia [as Diretivas de Contribuição](https://github.com/werdelesmarcio/PyTCPScan2/blob/master/Archives/CONTRIBUTING.md) para obter mais detalhes de como contribuir para o projeto.
 
 ## Autor:
 * **Werdeles Marcio de C. Soares**:**(gh05tb0y)** - _Desenvolvedor_
 
 ## Licença: 
 ***Este projeto está sob Licença GPL-3.0.***
-Consulte o arquivo [de Licença](https://github.com/werdelesmarcio/PyTCPScan/blob/master/Archives/LICENSE) para obter mais detalhes.
+Consulte o arquivo [de Licença](https://github.com/werdelesmarcio/PyTCPScan2/blob/master/Archives/LICENSE) para obter mais detalhes.
 
 ## Agradecimentos:
 * Obrigado à todos os que apoiam o projeto de alguma forma.
@@ -62,7 +62,7 @@ Consulte o arquivo [de Licença](https://github.com/werdelesmarcio/PyTCPScan/blo
 ## Contatos
 Se quiser entrar em contato, crie um **issue** no GitHub ou envie um e-mail para werdelesmarcio@gmail.com. Obrigado!
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/werdelesmarcio/PyTCPScan?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/werdelesmarcio/PyTCPScan?style=for-the-badge">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/werdelesmarcio/PyTCPScan2?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/werdelesmarcio/PyTCPScan2?style=for-the-badge">
 
-<img src = "https://github.com/werdelesmarcio/PyTCPScan/blob/main/Images/SoftwareLivre.png?raw=true" width =130 align="Right">
-<img src = "https://github.com/werdelesmarcio/PyTCPScan/blob/main/Images/PoweredByLinux.png?raw=true" width =80 align="Right">
+<img src = "https://github.com/werdelesmarcio/PyTCPScan2/blob/master/Images/SoftwareLivre.png?raw=true" width =130 align="Right">
+<img src = "https://github.com/werdelesmarcio/PyTCPScan2/blob/master/Images/PoweredByLinux.png?raw=true" width =80 align="Right">
