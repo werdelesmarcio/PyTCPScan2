@@ -4,7 +4,9 @@
 
 <img alt="AppVeyor" src="https://img.shields.io/appveyor/ci/werdelesmarcio/PyTCPScan2"> 
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=alert_status)](https://sonarcloud.io/dashboard?id=werdelesmarcio_PyTCPScan2) 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2)
 
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan2"> 
 
