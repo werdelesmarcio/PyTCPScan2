@@ -1,16 +1,6 @@
 # PyTCPScan <img src="https://github.com/werdelesmarcio/PyTCPScan/blob/main/Images/icon.png" width=25> 
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/eefb5e71110a85b4ac3f/maintainability)](https://codeclimate.com/github/werdelesmarcio/PyTCPScan2/maintainability) 
-
-<img alt="AppVeyor" src="https://img.shields.io/appveyor/ci/werdelesmarcio/PyTCPScan2"> 
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2)
-
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2)
-
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan2"> 
-
-<img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/PyTCPScan2"> 
+[![Maintainability](https://api.codeclimate.com/v1/badges/eefb5e71110a85b4ac3f/maintainability)](https://codeclimate.com/github/werdelesmarcio/PyTCPScan2/maintainability)   [![Build status](https://ci.appveyor.com/api/projects/status/050o62vq1v03wv4c?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/pytcpscan2)   [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2)   [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2)   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan2">   <img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/PyTCPScan2">   <img alt="Twitter" src="https://img.shields.io/twitter/url?label=gh05tb0y&logo=twitter&logoColor=green&style=social&url=https%3A%2F%2Ftwitter.com%2Fc4s3_w1nt3rmut3">
 
 _Repositório para a aplicação PyTCPScan._
 
