@@ -1,6 +1,14 @@
 # PyTCPScan <img src="https://github.com/werdelesmarcio/PyTCPScan/blob/main/Images/icon.png" width=25> 
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/3629bc037bdc9dbf4b71/maintainability)](https://codeclimate.com/github/werdelesmarcio/PyTCPScan2/maintainability) <img alt="AppVeyor" src="https://img.shields.io/appveyor/ci/werdelesmarcio/PyTCPScan2"> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=alert_status)](https://sonarcloud.io/dashboard?id=werdelesmarcio_PyTCPScan2) <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan2"> <img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/PyTCPScan2"> 
+[![Maintainability](https://api.codeclimate.com/v1/badges/eefb5e71110a85b4ac3f/maintainability)](https://codeclimate.com/github/werdelesmarcio/PyTCPScan2/maintainability) 
+
+<img alt="AppVeyor" src="https://img.shields.io/appveyor/ci/werdelesmarcio/PyTCPScan2"> 
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=alert_status)](https://sonarcloud.io/dashboard?id=werdelesmarcio_PyTCPScan2) 
+
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan2"> 
+
+<img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/PyTCPScan2"> 
 
 _Repositório para a aplicação PyTCPScan._
 
